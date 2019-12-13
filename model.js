@@ -208,6 +208,7 @@ model.kodokushi = {
 
 model.karasutengu = {
     "name" : "Karasu Tengu",
+    "Chapter 25 3rd Samurai X": 3,
     "Chapter 12 2nd Umibozu" : 2,
     "Chapter 12 1st Oguna" : 2,
     "Chapter 12 2nd Oguna" : 2,
@@ -266,6 +267,7 @@ model.hitotsume = {
     "Chapter 11 2nd Warrior Soul" : 3,
     "Chapter 11 1st Hitotsume (Hard)" : 2,
     "Chapter 11 2nd Hitotsume (Hard)" : 2,
+    "Chapter 25 1st Kodokushi" : 2,
 }
 
 model.tesso = {
@@ -301,6 +303,8 @@ model.yamausagi = {
     "name" : "Yamausagi",
     "Chapter 9 1st Yamausagi" : 4,
     "Chapter 9 2nd Yamausagi" : 3,
+    "Chapter 25 1st Samurai X" : 2,
+    "Chapter 25 2nd Samurai X" : 2,
 }
 
 model.chocho = {
@@ -468,7 +472,7 @@ model.ootengu = {
     "name" : "Ootengu",
     "Soul Stage 10" : 2,
     "Soul Stage 11" : 2,
-    "Chapter 15 2nd Lantern Boy" : 1,
+    "Chapter 15 3rd Lantern Boy" : 1,
 }
 
 model.shutendoji = {
