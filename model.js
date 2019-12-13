@@ -148,6 +148,8 @@ model.zashiki = {
 
 model.koi = {
     "name" : "Koi",
+    "Chapter 27 1st Kappa" : 3,
+    "Chapter 27 2nd Kappa" : 3,
     "Chapter 7 1st Koi" : 3,
     "Chapter 7 2nd Lantern Boy" : 2,
     "Chapter 7 2nd Koi" : 1,
@@ -170,6 +172,7 @@ model.tanuki = {
 model.kappa = {
     "name" : "Kappa",
     "Umibozu Stage 5" : 5,
+    "Chapter 27 1st Koi" : 3,
     "Umibozu Stage 3" : 3,
 }
 
@@ -199,6 +202,8 @@ model.gaki = {
 model.kodokushi = {
     "name" : "Kodokushi",
     "Kappa Stage 3" : 3,
+    "Chapter 25 1st Kodokushi" : 1,
+    "Chapter 25 2nd Kodokushi" : 1,
 }
 
 model.karasutengu = {
@@ -221,6 +226,11 @@ model.kamikui = {
 model.kusa = {
     "name" : "Kusa",
     "Soul Sougenbi" : 4,
+    "Chapter 26 1st Doumeki" : 1,
+    "Chapter 26 2nd Doumeki" : 1,
+    "Chapter 26 3rd Doumeki" : 1,
+    "Chapter 26 1st Satori" : 1,
+    "Chapter 26 2nd Satori" : 1,
 }
 
 model.warriorsoul = {
@@ -232,6 +242,8 @@ model.warriorsoul = {
 
 model.kyonshiimoto = {
     "name" : "Kyonshi Imoto",
+    "Chapter 28 1st Susabi" : 3,
+    "Chapter 28 1st Kyonshi Imoto" : 1,
 }
 
 model.samuraix = {
@@ -348,6 +360,10 @@ model.umibozu = {
     "name" : "Umibozu",
     "Chapter 24 1st Vampira" : 3,
     "Chapter 24 2nd Vampira" : 3,
+    "Chapter 27 1st Kingyo Hime" : 3,
+    "Chapter 27 2nd Kingyo Hime" : 3,
+    "Chapter 27 1st Umibozu" : 1,
+    "Chapter 27 2nd Umibozu" : 1,
     "Umibozu Stage 5" : 1,
 }
 
@@ -360,6 +376,9 @@ model.kyonshiani = {
 
 model.puppeteer = {
     "name" : "Puppeteer",
+    "Chapter 28 1st Puppeteer" : 3,
+    "Chapter 28 2nd Puppeteer" : 3,
+    "Chapter 27 1st Umibozu" : 3,
 }
 
 model.momiji = {
@@ -370,6 +389,7 @@ model.momiji = {
 
 model.hangan = {
     "name" : "Hangan",
+    "Chapter 28 1st Hangan" : 2,
     "Soul Stage 8" : 1,
 }
 
@@ -421,6 +441,7 @@ model.kuromujou = {
     "Chapter 24 1st Kiyohime" : 2,
     "Chapter 24 2nd Kiyohime" : 2,
     "Chapter 24 3rd Kiyohime" : 2,
+    "Chapter 28 1st Enma" : 2,
 }
 
 model.shiromujou = {
@@ -463,4 +484,5 @@ model.arakawalord = {
 model.enma = {
     "name" : "Enma",
     "Soul Stage 6" : 1,
+    "Chapter 28 1st Enma" : 1,
 }
