@@ -323,7 +323,6 @@ model.yamawaro = {
     "Chapter 16 1st Gaki" : 2,
     "Chapter 16 2nd Gaki" : 2,
     "Chapter 16 3rd Gaki" : 2,
-
 }
 
 model.kubinashi = {
