@@ -192,10 +192,10 @@ function stringConverterAndRender(str) {
   if (monsterName == "waterball" || monsterName == "waterlily" || monsterName == "river" || monsterName == "leaf") {
     showLocationData("kappa");
   }
-  if (monsterName == "offering") {
+  if (monsterName == "offering" || monsterName == "feathers") {
     showLocationData("oguna");
   }
-  if (monsterName == "feathercoat" || monsterName == "younggirl") {
+  if (monsterName == "feathercoat" || monsterName == "younggirl" || monsterName == "littlegirl") {
     showLocationData("doujo");
   }
   if (monsterName == "poison" || monsterName == "bugs") {
@@ -274,6 +274,4 @@ function stringConverterAndRender(str) {
     showLocationData("enma");
   }
 }
-
-
 

@@ -7,7 +7,7 @@ var monsters = [
     "Candles", "Cane", "Ceramic", "Cheat", "Cherry Tree", "Chocho", "Cloud", "Coffins", "Control", "Curse Nail", "Cursed Dart", "Cute",
     "Dagger", "Dance", "Dandelion", "Diamond", "Ding", "Doll", "Doujo", "Drum",
     "Enma",
-    "Fairy", "Feather coat", "Fisherman", "Flower", "Flute", "Fortune",
+    "Fairy", "Feather coat","Feathers", "Fisherman", "Flower", "Flute", "Fortune",
     "Gaki", "Gambling", "Ghost Mask", "Girl", "Grave Digger", "Green Imp", "Guitar",
     "Hahakigami", "Hammer", "Hangan", "Harden", "Hatred", "Healing", "Hitotsume", "Hone Onna", "Horn", "Hououka", "House",
     "Inugami",
@@ -25,7 +25,7 @@ var monsters = [
     "Umibozu", "Umbrella", "Ushi no Toki",
     "Vampira",
     "Wall", "Water Lily", "Water ball", "Wealth", "White", "Wind",
-    "Yamausagi", "Yamawaro", "Yellow Imp", "Youko", "Young Girl", "Yuki Onna", "Yumekui",
+    "Yamausagi", "Yamawaro", "Yellow Imp", "Youko", "Little Girl", "Yuki Onna", "Yumekui",
     "Zashiki", "Zombie Dog",
 ];
 
@@ -182,7 +182,6 @@ model.oguna = {
     "Aoandon Stage 3" : 3,
     "Chapter 12 1st Oguna" : 1,
     "Chapter 12 2nd Oguna" : 1,
-
 }
 
 model.doujo = {
@@ -190,11 +189,15 @@ model.doujo = {
     "Chapter 3 2nd Yellow Imp" : 3,
     "Chapter 3 1st Samurai X" : 2,
     "Chapter 3 2nd Akashita" : 2,
+    "Chapter 3 1st Samurai X (Hard)" : 2,
 }
 
 model.gaki = {
     "name" : "Gaki",
     "Chapter 11 2nd Gaki" : 3,
+    "Momiji Stage 1" : 3,
+    "Momiji Stage 2" : 3,
+    "Momiji Stage 3" : 3,
     "Chapter 11 1st Gaki" : 1,
     "Soul Stage 8" : 1,
 }
