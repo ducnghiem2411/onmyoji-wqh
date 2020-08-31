@@ -162,6 +162,8 @@ function stringConverterAndRender(str) {
   }
 
   //Get location data by tip
+  //Look stupid but it gives best performance :joy:
+  //The monsters won't increase by time so it's ok
   if (monsterName == "kite" || monsterName == "blueskin") {
     showLocationData("blueimp");
   }
